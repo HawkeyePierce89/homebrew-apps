@@ -4,7 +4,7 @@ cask "pisaka" do
 
   url "https://github.com/HawkeyePierce89/pisaka/releases/download/v#{version}/Pisaka-#{version}.zip"
   name "Pisaka"
-  desc "Native code editor with a first-class git client"
+  desc "Native code editor with LeetCode integration and git tools"
   homepage "https://github.com/HawkeyePierce89/pisaka"
 
   livecheck do
