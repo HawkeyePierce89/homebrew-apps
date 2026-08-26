@@ -1,6 +1,6 @@
 cask "pisaka" do
-  version "1.2"
-  sha256 "79eb58fbe4f8d3829f02916962b6b5ee8f87945671e1f3b166de3bd72192d387"
+  version "1.3"
+  sha256 "04c073f77fc023da4cdad39d41f0317a1050e669500aca73998601da694bf294"
 
   url "https://github.com/HawkeyePierce89/pisaka/releases/download/v#{version}/Pisaka-#{version}.zip"
   name "Pisaka"
